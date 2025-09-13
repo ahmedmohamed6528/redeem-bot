@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+venv/
+.venv/
+env/
+node_modules/
+.DS_Store
+bot_errors.log
+/bot_render_ready.py
+processed_codes.db
+bot_errors.log
